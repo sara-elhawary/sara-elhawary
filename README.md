@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sara-elhawary
 - 👀 I’m interested in Coding,cooking and Design.
-- 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate on React projects.
+- 🌱 I'm a full stack web developer.
+- 💞️ I’m looking to collaborate on React,Angular and Nodejs projects.
 - 📫 Reach me at elhawary.sara92@gmail.com
 
 <!---
